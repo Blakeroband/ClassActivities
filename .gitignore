@@ -10,8 +10,8 @@
 
 # Current
 !/00-*/**/Main
-!/01-*/**/0[0-9]*/Solved
-!/01-*/**/1[0-9]*/Solved
+!/01-*/**/Solved
+!/02-*/**/0[0-6]*/Solved
 
 # Logs
 logs
