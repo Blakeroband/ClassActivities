@@ -11,9 +11,7 @@
 # Current
 !/00-*/**/Main
 !/01-*/**/Solved
-!/02-*/**/0[0-9]*/Solved
-!/02-*/**/1[0-9]*/Solved
-!/02-*/**/2[0-0]*/Solved
+!/02-*/**/Solved
 
 # Logs
 logs
